@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "instagram-lista-videos-csv": {
+      "command": "node",
+      "args": ["recursos/mcps/instagram-lista-videos-csv/index.js"]
+    },
+    "instagram-top-videos-download": {
+      "command": "node",
+      "args": ["recursos/mcps/instagram-top-videos-download/index.js"]
+    },
+    "video-transcricao": {
+      "command": "node",
+      "args": ["recursos/mcps/video-transcricao/index.js"]
+    }
+  }
+}
